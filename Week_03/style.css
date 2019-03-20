@@ -1,0 +1,46 @@
+<!doctype html>
+<html>
+<head>
+	
+<meta charset="UTF-8">
+<title>Website</title>
+<link href="file:///D.Arriola/style.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+	
+	<h1>This is the Heading</h1>
+	
+	<h2> This is heading 2</h2>
+	<p>This is the paragraph.<br></p>
+	And it continues down here
+</body>
+</html>
+
+
+h1{
+  	font-size: 36px;
+    text-transform: uppercase; 
+    font-family: "sigmar-one";
+  }
+
+h2{
+font-family: "lato" Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif"
+font-weight: 600;
+font-size: 14px;
+line-height: 24px;
+text-transform: uppercase;
+}
+/*this title is for information about the font choice*/
+h3{
+font-size: 13px;
+color:#cdcdcd;
+line-height: 10px;
+margin-left: -20%;
+}
+/*paragraph text*/
+p{
+font-family: "Montserrat";
+font-weight: 300;
+font-size: 14px;
+line-height: 24px;
